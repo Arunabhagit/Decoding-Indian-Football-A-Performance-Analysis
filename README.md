@@ -18,22 +18,37 @@ In this project, **PostgreSQL** was used to store and manage the dataset efficie
 
 # Analysis 
 
-The Indian football team has played 533 matches in AFC-level competitions from 1938 to 2024, recording 197 wins, 111 draws, and 225 losses, reflecting a long and eventful journey.
+**Analysis of Indian Football Team Performance (1938–2024)**
 
-The win rate stands at 36%, with significant improvements observed post-2000, showcasing better coordination, coaching, and team development.
+The Indian national football team played its first recorded international match in 1938. Since then, it has participated in 533 AFC-level matches, securing 197 wins, 111 draws, and 225 losses, showcasing a long and evolving journey in international football.
 
-The early decades saw modest success, while the 1980s marked a major setback, with a sharp rise in defeat rate and poor defensive performance.
+The win percentage stands at 36%, with noticeable improvement after the year 2000. This indicates steady growth in performance and competitiveness in regional and continental competitions.
 
-A major turning point came after 1955, following the team’s worst defeat (1-11 to the Soviet Union), which led to improvements under coach Syed Abdul Rahim—ushering in the Golden Era.
+The 1950s and early 1960s are widely regarded as the Golden Era of Indian football. During this period, under the legendary coach Syed Abdul Rahim, the team achieved major success, including top finishes in Asian Games and Olympics.
 
-![India_national_football_team_at1956_Olympics](https://github.com/user-attachments/assets/ccf45058-a025-48ee-b4fa-baf883dd74f4)
+![GettyImages-637427292](https://github.com/user-attachments/assets/2a0da741-e11f-403d-a657-5509b4045d9f)
 
 
-From 2000 onwards, there's been a steady rise in both win percentage and goals scored, indicating progress in offensive strategies and tactical planning.
+However, the 1980s marked a low point, with a sharp increase in defeats. The goal-conceded rate peaked during this time, indicating poor defensive strategies and lack of international competitiveness.
 
-Despite improvements, defensive weaknesses resurfaced in the early 2000s, shown by increased goals conceded.
+After 2000, there is a positive trend in both wins and goal-scoring ability. The number of goals scored per match began rising, reflecting stronger attacking tactics and improved player performance.
 
-India has been most dominant against South Asian rivals like Sri Lanka, Nepal, and Pakistan—winning by large margins, especially in SAFF tournaments.
+Despite improvements in attack, defensive weaknesses persisted, especially during some years post-2000, as shown by spikes in goals conceded.
 
-The last decade saw highs in 2017 and 2023 but a major dip in 2024 with no wins, proving that consistency remains a challenge.
+India showed dominance in South Asian football, recording the most victories against Nepal, Pakistan, Sri Lanka, and Maldives, particularly in SAFF Championships. The team scored the highest number of goals (51) against Sri Lanka.
+
+The last 10 years (2014–2024) saw fluctuating performance. Notably, 2017 and 2023 were standout years with major wins, while 2024 recorded no victories, marking a concerning drop in form.
+
+![_DSC1228](https://github.com/user-attachments/assets/f417d574-bdd3-4031-90cf-65fe1033ba48)
+
+
+India's biggest win was a 7-0 victory against Sri Lanka in 1963, and the worst defeat came in 1955 with a 1-11 loss to the Soviet Union, during which Indian players reportedly played without boots. This loss became a catalyst for structural changes in Indian football.
+
+![India_national_football_team_at1956_Olympics](https://github.com/user-attachments/assets/77f96a5b-359a-4b89-a4a4-b04e187d0f58)
+
+
+Over time, coaching improvements, youth development, and increased international exposure have contributed to gradual progress.
+
+However, the team still faces challenges in maintaining consistency, especially at the Asian and global levels.
+
 
