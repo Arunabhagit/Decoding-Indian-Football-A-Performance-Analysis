@@ -20,16 +20,16 @@ In this project, **PostgreSQL** was used to store and manage the dataset efficie
 
 **Analysis of Indian Football Team Performance (1938–2024)**
 
-The Indian national football team played its first recorded international match in 1938. Since then, it has participated in 533 AFC-level matches, securing 197 wins, 111 draws, and 225 losses, showcasing a long and evolving journey in international football.
+The Indian national football team played its first recorded international match in **1938**. Since then, it has participated in **533** AFC-level matches, securing **197** wins, **111** draws, and **225** losses, showcasing a long and evolving journey in international football.
 
-The win percentage stands at 36%, with noticeable improvement after the year 2000. This indicates steady growth in performance and competitiveness in regional and continental competitions.
+The win percentage stands at 36%, with noticeable improvement after the year **2000**. This indicates steady growth in performance and competitiveness in regional and continental competitions.
 
 The 1950s and early 1960s are widely regarded as the Golden Era of Indian football. During this period, under the legendary coach Syed Abdul Rahim, the team achieved major success, including top finishes in Asian Games and Olympics.
 
 ![GettyImages-637427292](https://github.com/user-attachments/assets/2a0da741-e11f-403d-a657-5509b4045d9f)
 
 
-However, the 1980s marked a low point, with a sharp increase in defeats. The goal-conceded rate peaked during this time, indicating poor defensive strategies and lack of international competitiveness.
+However, the **1980s** marked a low point, with a sharp increase in defeats. The goal-conceded rate peaked during this time, indicating poor defensive strategies and lack of international competitiveness.
 
 After 2000, there is a positive trend in both wins and goal-scoring ability. The number of goals scored per match began rising, reflecting stronger attacking tactics and improved player performance.
 
@@ -42,7 +42,7 @@ The last 10 years (2014–2024) saw fluctuating performance. Notably, 2017 and 2
 ![_DSC1228](https://github.com/user-attachments/assets/f417d574-bdd3-4031-90cf-65fe1033ba48)
 
 
-India's biggest win was a 7-0 victory against Sri Lanka in 1963, and the worst defeat came in 1955 with a 1-11 loss to the Soviet Union, during which Indian players reportedly played without boots. This loss became a catalyst for structural changes in Indian football.
+India's biggest win was a 7-0 victory against Sri Lanka in **1963**, and the worst defeat came in **1955** with a 1-11 loss to the Soviet Union, during which Indian players reportedly played without boots. This loss became a catalyst for structural changes in Indian football.
 
 ![India_national_football_team_at1956_Olympics](https://github.com/user-attachments/assets/77f96a5b-359a-4b89-a4a4-b04e187d0f58)
 
@@ -50,5 +50,11 @@ India's biggest win was a 7-0 victory against Sri Lanka in 1963, and the worst d
 Over time, coaching improvements, youth development, and increased international exposure have contributed to gradual progress.
 
 However, the team still faces challenges in maintaining consistency, especially at the Asian and global levels.
+
+# Conclusion
+
+This project highlights the Indian football team’s journey from early struggles to regional dominance. Through data analysis, we uncovered performance trends, golden eras, setbacks, and growth over decades. The insights reflect improved competitiveness and consistency in recent years. With continued development, Indian football holds promise for greater achievements on the continental and global stage in the future.
+
+# References
 
 
