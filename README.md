@@ -10,3 +10,11 @@ The analysis sheds light on the evolution of the team, identifying years of stro
 
 # Project Overview
 
+This project analyzes the performance of the Indian national football team from 1938 to 2024 using Python and PostgreSQL. It explores wins, losses, draws, and goal statistics to uncover performance trends, improvements, and setbacks. Through data-driven insights, the project highlights India’s journey, regional dominance, and evolving competitiveness in international football, especially in AFC-level and SAFF Championship matches.
+
+# Tools 
+
+In this project, **PostgreSQL** was used to store and manage the dataset efficiently. **Python**, along with Jupyter Notebook, was used for exploratory data analysis. Libraries like Pandas, Matplotlib, and Seaborn helped in data manipulation and visualization, enabling clear insights into the Indian football team's performance trends, match outcomes, and goal statistics across different years.
+
+# Analysis 
+
