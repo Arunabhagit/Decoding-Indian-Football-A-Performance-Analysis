@@ -58,4 +58,8 @@ This project highlights the Indian football team’s journey from early struggle
 
 # References
 
+**Find the Dataset** : https://www.kaggle.com/datasets/dipeshbaraik/indian-football-team-results-datasheet1938-2024
 
+**About Indian Football** : https://en.wikipedia.org/wiki/India_national_football_team
+
+**Python Programming** : https://www.geeksforgeeks.org/r-data-analysis/exploratory-dataanalysis-in-pytho
