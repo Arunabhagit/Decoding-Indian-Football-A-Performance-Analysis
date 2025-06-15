@@ -10,11 +10,30 @@ The analysis sheds light on the evolution of the team, identifying years of stro
 
 # Project Overview
 
-This project analyzes the performance of the Indian national football team from 1938 to 2024 using Python and PostgreSQL. It explores wins, losses, draws, and goal statistics to uncover performance trends, improvements, and setbacks. Through data-driven insights, the project highlights India’s journey, regional dominance, and evolving competitiveness in international football, especially in AFC-level and SAFF Championship matches.
+This project analyzes the performance of the Indian national football team from 1938 to 2024 using Python and PostgreSQL. It explores wins, losses, draws, and goal statistics to uncover performance trends, improvements, and setbacks. Through data-driven insights, the project highlights India’s journey, regional dominance, and evolving competitiveness in international football, especially in **AFC-level** and **SAFF Championship** matches.
 
 # Tools 
 
 In this project, **PostgreSQL** was used to store and manage the dataset efficiently. **Python**, along with Jupyter Notebook, was used for exploratory data analysis. Libraries like Pandas, Matplotlib, and Seaborn helped in data manipulation and visualization, enabling clear insights into the Indian football team's performance trends, match outcomes, and goal statistics across different years.
 
 # Analysis 
+
+The Indian football team has played 533 matches in AFC-level competitions from 1938 to 2024, recording 197 wins, 111 draws, and 225 losses, reflecting a long and eventful journey.
+
+The win rate stands at 36%, with significant improvements observed post-2000, showcasing better coordination, coaching, and team development.
+
+The early decades saw modest success, while the 1980s marked a major setback, with a sharp rise in defeat rate and poor defensive performance.
+
+A major turning point came after 1955, following the team’s worst defeat (1-11 to the Soviet Union), which led to improvements under coach Syed Abdul Rahim—ushering in the Golden Era.
+
+![India_national_football_team_at1956_Olympics](https://github.com/user-attachments/assets/ccf45058-a025-48ee-b4fa-baf883dd74f4)
+
+
+From 2000 onwards, there's been a steady rise in both win percentage and goals scored, indicating progress in offensive strategies and tactical planning.
+
+Despite improvements, defensive weaknesses resurfaced in the early 2000s, shown by increased goals conceded.
+
+India has been most dominant against South Asian rivals like Sri Lanka, Nepal, and Pakistan—winning by large margins, especially in SAFF tournaments.
+
+The last decade saw highs in 2017 and 2023 but a major dip in 2024 with no wins, proving that consistency remains a challenge.
 
