@@ -62,4 +62,12 @@ This project highlights the Indian football team’s journey from early struggle
 
 **About Indian Football** : https://en.wikipedia.org/wiki/India_national_football_team
 
-**Python Programming** : https://www.geeksforgeeks.org/r-data-analysis/exploratory-dataanalysis-in-pytho
+**Python EDA** : https://www.geeksforgeeks.org/r-data-analysis/exploratory-data-analysis-in-python/
+
+**Database Management** : https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/
+
+# Contact
+
+**Email Id** : bhattacharyyaarun2001@gmail.com
+
+**Linkedin Profile** : https://www.linkedin.com/in/arunabha2024/
