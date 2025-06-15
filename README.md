@@ -31,7 +31,7 @@ The 1950s and early 1960s are widely regarded as the Golden Era of Indian footba
 
 However, the **1980s** marked a low point, with a sharp increase in defeats. The goal-conceded rate peaked during this time, indicating poor defensive strategies and lack of international competitiveness.
 
-After 2000, there is a positive trend in both wins and goal-scoring ability. The number of goals scored per match began rising, reflecting stronger attacking tactics and improved player performance.
+After **2000**, there is a positive trend in both wins and goal-scoring ability. The number of goals scored per match began rising, reflecting stronger attacking tactics and improved player performance.
 
 Despite improvements in attack, defensive weaknesses persisted, especially during some years post-2000, as shown by spikes in goals conceded.
 
