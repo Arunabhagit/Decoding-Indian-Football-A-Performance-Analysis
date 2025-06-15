@@ -35,12 +35,13 @@ After 2000, there is a positive trend in both wins and goal-scoring ability. The
 
 Despite improvements in attack, defensive weaknesses persisted, especially during some years post-2000, as shown by spikes in goals conceded.
 
-India showed dominance in South Asian football, recording the most victories against Nepal, Pakistan, Sri Lanka, and Maldives, particularly in SAFF Championships. The team scored the highest number of goals (51) against Sri Lanka.
-
-The last 10 years (2014–2024) saw fluctuating performance. Notably, 2017 and 2023 were standout years with major wins, while 2024 recorded no victories, marking a concerning drop in form.
 
 ![_DSC1228](https://github.com/user-attachments/assets/f417d574-bdd3-4031-90cf-65fe1033ba48)
 
+
+India showed dominance in South Asian football, recording the most victories against Nepal, Pakistan, Sri Lanka, and Maldives, particularly in SAFF Championships. The team scored the highest number of goals (51) against Sri Lanka.
+
+The last 10 years (2014–2024) saw fluctuating performance. Notably, 2017 and 2023 were standout years with major wins, while 2024 recorded no victories, marking a concerning drop in form.
 
 India's biggest win was a 7-0 victory against Sri Lanka in **1963**, and the worst defeat came in **1955** with a 1-11 loss to the Soviet Union, during which Indian players reportedly played without boots. This loss became a catalyst for structural changes in Indian football.
 
